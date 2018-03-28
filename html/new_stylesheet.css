@@ -1164,7 +1164,6 @@ dl.section dd {
 #projectlogo img
 { 
 	border: 0px none;
-
 }
  
 #projectalign
@@ -1175,9 +1174,8 @@ dl.section dd {
 #projectname
 {
 	font: 100% Tahoma, Arial,sans-serif;
-	margin: 1px;
+	margin: 0px;
 	padding: 2px 0px;
-	
 }
     
 #projectbrief

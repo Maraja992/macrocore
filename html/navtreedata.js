@@ -23,16 +23,12 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "Boemska", "index.html", [
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
-    ] ]
-  ] ]
+  [ "My Project", "index.html", ]
 ];
 
 var NAVTREEINDEX =
 [
-"d0/d6f/mf__getvarlen_8sas.html"
+"index.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
